@@ -4,6 +4,12 @@ This is a weather dashboard with form inputs that will run in the browser and fe
 
 [OpenWeather API](https://openweathermap.org/api) is used to retrieve weather data for cities. And `localStorage` is used to store persistent data.
 
+## Installation
+
+1. Download or clone repository
+2. Open the main page (index.html) on your browser to view
+3. Use a text editor to view all coding, Visual Studio Coding is recommended.
+
 ## Features
 
 * HTML
