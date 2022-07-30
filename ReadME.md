@@ -14,3 +14,4 @@ This is a weather dashboard with form inputs that will run in the browser and fe
 * Server-Side API - OpenWeather API
 
 ## Websites
+https://itsyourpalsal.github.io/Weather-Dashboard/
